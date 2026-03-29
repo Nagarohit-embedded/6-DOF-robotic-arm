@@ -26,9 +26,9 @@ The robotic arm is controlled using PWM signals to drive servo motors. Each join
 
 ## Project Demo
 
-![Robotic Arm 1](WhatsApp Image 2026-01-31 at 3.25.51 PM.jpeg)
+![Robotic Arm 1](Picture of Robotic ARM.jpeg)
 
-![Robotic Arm 2](WhatsApp Image 2026-01-19 at 4.41.12 PM.jpeg)
+![Robotic Arm 2](Circuit Diagram of 6 DOF Robotic ARM.jpeg)
 
 
 ## Applications
