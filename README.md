@@ -59,11 +59,16 @@ A PC-based GUI is used for advanced control.
 * Reset and stop functionality
 * Import/export motion paths
 
- # Project Demo
- ![Robotic Arm](images/robotic_arm.jpeg)
-![Circuit Diagram](images/circuit.jpeg)
-![Software Interface](images/software.jpeg)
+## 📸 Project Demo
 
+### Robotic Arm
+![Robotic Arm](images/robotic_arm.jpeg)
+
+### Circuit Diagram
+![Circuit Diagram](images/circuit_diagram.jpeg)
+
+### Software Interface
+![Software Interface](images/software_interface.jpeg)
 
 # Applications
 * Pick-and-place automation
