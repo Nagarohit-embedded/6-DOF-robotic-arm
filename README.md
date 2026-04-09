@@ -61,14 +61,11 @@ A PC-based GUI is used for advanced control.
 
 ## 📸 Project Demo
 
-### Robotic Arm
-![Robotic Arm](images/robotic_arm.jpeg)
+You can view the project images here:
 
-### Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.jpeg)
-
-### Software Interface
-![Software Interface](images/software_interface.jpeg)
+- [Robotic Arm](images/robotic_arm.jpeg)
+- [Circuit Diagram](images/circuit_diagram.jpeg)
+- [Software Interface](images/software_interface.jpeg)
 
 # Applications
 * Pick-and-place automation
